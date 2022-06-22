@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+a {
+  text-align: center;
+  color: white;
+  font-size: large;
+}
